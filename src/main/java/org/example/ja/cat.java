@@ -1,4 +1,4 @@
-package org.example.Ja;
+package org.example.ja;
 
 public class cat {
     public static void main(String[] args) {
